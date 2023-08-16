@@ -68,13 +68,13 @@ C = 5 * ((F-32) / 9).
 
     e. calculate the deductions and the net salary, according to the table below:
 
-    | Descrição | Valor |
+    | Description | Value |
     | --- | --- |
-    | + Salário Bruto | US$ |
+    | + Gross Salary | US$ |
     | - John (11%) | US$ |
-    | - André (8%) | US$ |
+    | - Andrew (8%) | US$ |
     | - Alice (5%) | US$ |
-    | = Salário Líquido | US$ |
+    | = Net Salary | US$ |
 
 
 15. Make a program for a paint store. The program should ask for the size in square meters of the area to be painted. Consider that the paint coverage is 1 liter for every 3 square meters and that the paint is sold in 18-liter cans, which cost US$ 80.00. Tell the user the number of cans of paint to buy and the total price.
