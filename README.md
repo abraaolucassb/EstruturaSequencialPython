@@ -89,3 +89,11 @@ Tell the user the quantities of paint to buy and the respective prices in 3 situ
     c. mixing cans and gallons so that less paint is wasted. Add 10% leeway and always round the figures up, consider full cans.
 
 17. Make a program that asks for the size of a file to download (in MB) and the speed of an Internet link (in Mbps), calculates and reports the approximate download time of the file using this link (in minutes).
+
+## Connect With Me
+
+<div align="left"> 
+<a href="https://twitter.com/abraoolu" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23E4405F?style=for-the-badge&logo=twitter&logoColor=white"</a>
+<a href = "mailto:abraaolucassb@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/abraão-lucas-7052b6239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+</div>
