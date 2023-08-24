@@ -19,7 +19,7 @@ Here are the exercises, let's get to work!
 
 1. Make a program that shows the message "Hello World!" on the screen.
 
-2. Make a program that asks for a number and then shows the message The number entered was [number].
+2. Make a program that asks for a number and then shows the message "The number entered was [number]".
 
 3. Make a program that asks for two numbers and prints the sum.
 

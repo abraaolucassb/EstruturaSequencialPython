@@ -18,7 +18,7 @@ Aqui estão os exercícios, partiu "codar"!
 
 1. Faça um programa que mostre a mensagem “Olá, Mundo!” na tela.
 
-2. Faça um programa que peça um número e então mostre a mensagem O número informado foi [número].
+2. Faça um programa que peça um número e então mostre a mensagem "O número informado foi [número]".
 
 3. Faça um programa que peça dois números e imprima a soma.
 
