@@ -26,7 +26,7 @@ Aqui estão os exercícios, partiu "codar"!
 
 5. Faça um programa que converta metros para centímetros.
 
-6. Faça um programa que peça o raio de um círculo, calcule e mostre sua área.
+6. Faça um programa que peça o raio de um círculo, calcule e mostre a sua área.
 
 7. Faça um programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário.
 
