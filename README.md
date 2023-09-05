@@ -31,9 +31,11 @@ Here are the exercises, let's get to work!
 
 7. Make a program that calculates the area of a square, then show twice this area to the user.
 
-8. Create a program that asks you how much you earn per hour and the number of hours worked in the month. Calculate and display your total salary for the month.
+8. Create a program that asks you how much you earn per hour and the number of hours worked in the month. Calculate and 
+display your total salary for the month.
 
-9. Make a program that asks for the temperature in degrees Fahrenheit, transforms it and displays the temperature in degrees Celsius.
+9. Make a program that asks for the temperature in degrees Fahrenheit, transforms it and displays the temperature in 
+degrees Celsius.
 C = 5 * ((F-32) / 9).
 
 10. Make a program that asks for the temperature in degrees Celsius, transforms it and displays it in degrees Fahrenheit.

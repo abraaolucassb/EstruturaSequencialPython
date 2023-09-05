@@ -30,9 +30,11 @@ Aqui estão os exercícios, partiu "codar"!
 
 7. Faça um programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário.
 
-8. Crie um programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e exiba o seu salário total do mês.
+8. Crie um programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e exiba o 
+seu salário total do mês.
 
-9. Faça um programa que peça a temperatura em graus Fahrenheit, transforme-a e exiba a temperatura em graus Celsius. C = 5 * ((F-32) / 9).
+9. Faça um programa que peça a temperatura em graus Fahrenheit, transforme-a e exiba a temperatura em graus Celsius. 
+C = 5 * ((F-32) / 9).
 
 10. Faça um programa que peça a temperatura em graus Celsius, transforme-a e exiba-a em graus Fahrenheit.
 
@@ -44,17 +46,25 @@ Aqui estão os exercícios, partiu "codar"!
     
     c. o terceiro elevado ao cubo.
 
-12. Tendo como dado de entrada a altura (h) de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas: (72.7*h) - 58.
+12. Tendo como dado de entrada a altura (h) de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando 
+as seguintes fórmulas: (72.7*h) - 58.
 
-13. Tendo como dado de entrada a altura (h) de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:
+13. Tendo como dado de entrada a altura (h) de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando 
+as seguintes fórmulas:
 
     a. Para homens: (72.7*h) - 58;
     
     b. Para mulheres: (62.1*h) - 44,7 .
 
-14. João Papo-de-Pescador, homem de bem, comprou um microcomputador para controlar o rendimento diário de seu trabalho. Toda vez que ele traz mais peixes que o peso estabelecido pelo regulamento de pesca do estado de São Paulo (50 quilos), ele deve pagar uma multa de R$4,00 por quilo excedente. João precisa que você faça um programa que leia a variável peso (peso dos peixes) e calcule o excesso. Armazene os quilos além do limite na variável excesso e o valor da multa que João deve pagar na variável multa. Imprima os dados do programa com as mensagens adequadas.
+14. João Papo-de-Pescador, homem de bem, comprou um microcomputador para controlar o rendimento diário de seu trabalho. 
+Toda vez que ele traz mais peixes que o peso estabelecido pelo regulamento de pesca do estado de São Paulo (50 quilos), 
+ele deve pagar uma multa de R$4,00 por quilo excedente. João precisa que você faça um programa que leia a variável peso 
+(peso dos peixes) e calcule o excesso. Armazene os quilos além do limite na variável excesso e o valor da multa que João 
+deve pagar na variável multa. Imprima os dados do programa com as mensagens adequadas.
 
-15. Faça um programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e exiba o seu salário total desse mês, sabendo-se que são descontados 11% para John, 8% para André e 5% para Alice, faça um programa que nos dê:
+15. Faça um programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e exiba o 
+seu salário total desse mês, sabendo-se que são descontados 11% para John, 8% para André e 5% para Alice, faça um programa 
+que nos dê:
 
     a. salário bruto;
     
@@ -74,9 +84,14 @@ Aqui estão os exercícios, partiu "codar"!
     | - Alice (5%) | R$ |
     | = Salário Líquido | R$ |
 
-16. Faça um programa para uma loja de tintas. O programa deverá pedir o tamanho em metros quadrados da área a ser pintada. Considere que a cobertura da tinta é de 1 litro para cada 3 metros quadrados e que a tinta é vendida em latas de 18 litros, que custam R$80,00. Informe ao usuário o número de latas de tinta a serem compradas e o preço total.
+16. Faça um programa para uma loja de tintas. O programa deverá pedir o tamanho em metros quadrados da área a ser pintada. 
+Considere que a cobertura da tinta é de 1 litro para cada 3 metros quadrados e que a tinta é vendida em latas de 18 litros, 
+que custam R$80,00. Informe ao usuário o número de latas de tinta a serem compradas e o preço total.
 
-17. Faça um programa para uma loja de tintas. O programa deverá pedir o tamanho em metros quadrados da área a ser pintada. Considere que a cobertura da tinta é de 1 litro para cada 6 metros quadrados e que a tinta é vendida em latas de 18 litros, que custam US$80,00 ou em galões de 3,6 litros, que custam R$25,00. Informe ao usuário as quantidades de tinta a serem compradas e os respectivos preços em 3 situações:
+17. Faça um programa para uma loja de tintas. O programa deverá pedir o tamanho em metros quadrados da área a ser pintada. 
+Considere que a cobertura da tinta é de 1 litro para cada 6 metros quadrados e que a tinta é vendida em latas de 18 litros, 
+que custam US$80,00 ou em galões de 3,6 litros, que custam R$25,00. Informe ao usuário as quantidades de tinta a serem compradas e os 
+respectivos preços em 3 situações:
 
     a. comprar apenas latas de 18 litros;
     
@@ -84,7 +99,8 @@ Aqui estão os exercícios, partiu "codar"!
     
     c. misturar latas e galões, de forma que o desperdício de tinta seja menor. Acrescente 10% de folga e sempre arredonde os valores para cima, isto é, considere latas cheias.
 
-18. Faça um programa que peça o tamanho de um arquivo para download (em MB) e a velocidade de um link de Internet (em Mbps), calcule e informe o tempo aproximado de download do arquivo usando este link (em minutos).
+18. Faça um programa que peça o tamanho de um arquivo para download (em MB) e a velocidade de um link de Internet (em Mbps), 
+calcule e informe o tempo aproximado de download do arquivo usando este link (em minutos).
 
 ## Connect With Me
 
